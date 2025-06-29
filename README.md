@@ -7,5 +7,5 @@ jsonmorph package link - [Click](https://pypi.org/project/jsonmorph/)
 
 - Upload or write Input JSON
 - Upload or write Settings JSON
-- Click Submit and get tranformed Output JSON
-- Download Output as JSON File
+- Click Transform and get tranformed Output JSON
+- Download Output as `.json` File
