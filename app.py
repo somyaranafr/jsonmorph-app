@@ -42,7 +42,7 @@ if st.session_state.pane == 1:
             settings_file = st.file_uploader("Upload your Settings JSON File:")
             st.caption("This would contain the defining configuration/settings JSON")
 
-        submit_button = st.form_submit_button("Submit")
+        submit_button = st.form_submit_button("Transform")
 
         input_given = input and input.strip() != ""
         settings_given = settings and settings.strip() != ""
