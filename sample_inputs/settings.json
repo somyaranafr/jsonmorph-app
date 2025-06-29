@@ -1,0 +1,10 @@
+{
+    "myname" : "name",
+    "age" : "info.age",
+    "date" : "{{now()}}",
+    "details" : {
+        "myadress" : "info.area",
+        "brand" : "{{string('Microsoft')}}",
+        "networth" : "{{NULL}}"
+    }
+}

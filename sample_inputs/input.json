@@ -1,0 +1,8 @@
+{
+    "name":"Bill Gates",
+    "info":{
+        "area":"Silicon Valley",
+        "state":"California",
+        "age": 52
+    }
+}
